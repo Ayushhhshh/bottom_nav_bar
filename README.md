@@ -1,17 +1,19 @@
-# custom_bottom_nav_bar
+# Custom Bottom Nav Bar
 
-A new Flutter project.
+t's a game-changer for enhancing bottom navigator bars, adding captivating animations that elevate your app's UI. The smooth animations bring a whole new level of attractiveness
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Animated Nav Bar
+- Smooth transitions
+- Attractive UI
+  
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Include screenshots or GIFs of your app here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# bottom_nav_bar
+1. Clone the repository
+   ```sh
+   git clone https://github.com/yourusername/yourproject.git
