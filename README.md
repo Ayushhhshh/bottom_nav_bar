@@ -17,10 +17,12 @@ It's a game-changer for enhancing bottom navigator bars, adding captivating anim
 ## Installation
 
 1. Clone the repository
+   
    ```bash
    git clone https://github.com/Ayushhhshh/bottom_nav_bar.git
    ```
 2. Install dependencies
+
    ```bash
    flutter pub get
    ```
